@@ -1,0 +1,5 @@
+{
+  "instagram_api_url": "https://api.instagram.com",
+  "default_output_format": "json",
+  "request_timeout": 30
+}
